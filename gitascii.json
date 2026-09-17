@@ -1,5 +1,4 @@
 {
-  "username": "cassio707",
   "widgets": [
     {
       "instanceId": "widget_1789628458747",
@@ -198,6 +197,5 @@
     "themeMode": "dark",
     "templateStyle": "rugbedbugg"
   },
-  "templateId": "rugbedbugg",
-  "profileSlug": "default"
+  "templateId": "rugbedbugg"
 }
