@@ -1,0 +1,202 @@
+{
+  "widgets": [
+    {
+      "instanceId": "widget_1789628458747",
+      "widgetId": "codeweb-hero-orbit",
+      "name": "Codeweb-hero-orbit Widget",
+      "position": {
+        "x": 0,
+        "y": 276
+      },
+      "size": {
+        "width": 800,
+        "height": 360
+      },
+      "config": {},
+      "locked": false,
+      "visible": true,
+      "zIndex": 1
+    },
+    {
+      "instanceId": "widget_1789628461702",
+      "widgetId": "codeweb-retro-grid",
+      "name": "Codeweb-retro-grid Widget",
+      "position": {
+        "x": 0,
+        "y": 0
+      },
+      "size": {
+        "width": 800,
+        "height": 260
+      },
+      "config": {
+        "selectedTechs": [
+          "html",
+          "js",
+          "css",
+          "ts",
+          "vercel",
+          "nextjs",
+          "nodejs",
+          "react",
+          "yarn",
+          "webpack",
+          "mysql",
+          "mongodb",
+          "figma",
+          "nginx",
+          "tailwind"
+        ],
+        "accentColor": "#55ffff",
+        "secondaryColor": "#c084fc",
+        "technologies": [
+          "html",
+          "js",
+          "css",
+          "ts",
+          "vercel",
+          "nextjs",
+          "nodejs",
+          "react",
+          "yarn",
+          "webpack",
+          "mysql",
+          "mongodb",
+          "figma",
+          "nginx",
+          "tailwind"
+        ]
+      },
+      "locked": false,
+      "visible": true,
+      "zIndex": 2
+    },
+    {
+      "instanceId": "widget_1789628508138",
+      "widgetId": "codeweb-social-badge",
+      "name": "Codeweb-social-badge Widget",
+      "position": {
+        "x": 0,
+        "y": 652
+      },
+      "size": {
+        "width": 800,
+        "height": 44
+      },
+      "config": {
+        "platforms": [
+          "telegram",
+          "gmail",
+          "instagram",
+          "linkedin"
+        ],
+        "label_telegram": "",
+        "lockAspectRatio": false
+      },
+      "locked": false,
+      "visible": true,
+      "zIndex": 3
+    },
+    {
+      "instanceId": "widget_1789628574755",
+      "widgetId": "contribution-snake",
+      "name": "Contribution-snake Widget",
+      "position": {
+        "x": 0,
+        "y": 712
+      },
+      "size": {
+        "width": 800,
+        "height": 250
+      },
+      "config": {},
+      "locked": false,
+      "visible": true,
+      "zIndex": 4
+    },
+    {
+      "instanceId": "widget_1789628622371",
+      "widgetId": "social-media",
+      "name": "Social-media Widget",
+      "position": {
+        "x": 0,
+        "y": 624
+      },
+      "size": {
+        "width": 800,
+        "height": 120
+      },
+      "config": {
+        "selectedSocials": [
+          "github",
+          "linkedin",
+          "twitter",
+          "instagram",
+          "email",
+          "telegram"
+        ],
+        "socialUrls": {
+          "github": "https://github.com/cassio707",
+          "instagram": "https://instagram.com/cassio707",
+          "telegram": "https://t.me/cassio707",
+          "website": "https://behance.net/cassio707",
+          "linkedin": "www.linkedin.com/in/mohammad-sajad-shekhian-73a380281",
+          "twitter": "https://x.com/cassio707",
+          "email": "mailto:cassio7072@gmail.com"
+        }
+      },
+      "locked": false,
+      "visible": true,
+      "zIndex": 5
+    },
+    {
+      "instanceId": "widget_1789628650624",
+      "widgetId": "divider",
+      "name": "Divider Widget",
+      "position": {
+        "x": 0,
+        "y": 728
+      },
+      "size": {
+        "width": 800,
+        "height": 30
+      },
+      "config": {},
+      "locked": false,
+      "visible": true,
+      "zIndex": 6
+    },
+    {
+      "instanceId": "widget_1789628726621",
+      "widgetId": "codeweb-minimal-badge",
+      "name": "Codeweb-minimal-badge Widget",
+      "position": {
+        "x": 32,
+        "y": 994
+      },
+      "size": {
+        "width": 736,
+        "height": 40
+      },
+      "config": {
+        "customTitle": "",
+        "prefix": ""
+      },
+      "locked": false,
+      "visible": true,
+      "zIndex": 7
+    }
+  ],
+  "globalStyles": {
+    "backgroundColor": "#050308",
+    "textColor": "#e5e5e5",
+    "accentColor": "#55ffff",
+    "borderColor": "#1a1424",
+    "fontFamily": "'JetBrains Mono', monospace",
+    "borderRadius": 0,
+    "padding": 24,
+    "themeMode": "dark",
+    "templateStyle": "rugbedbugg"
+  },
+  "templateId": "rugbedbugg"
+}
