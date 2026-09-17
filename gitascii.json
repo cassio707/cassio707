@@ -1,15 +1,16 @@
 {
+  "username": "cassio707",
   "widgets": [
     {
       "instanceId": "widget_1789628458747",
       "widgetId": "codeweb-hero-orbit",
       "name": "Codeweb-hero-orbit Widget",
       "position": {
-        "x": 0,
+        "x": 32,
         "y": 276
       },
       "size": {
-        "width": 800,
+        "width": 752,
         "height": 360
       },
       "config": {},
@@ -22,12 +23,12 @@
       "widgetId": "codeweb-retro-grid",
       "name": "Codeweb-retro-grid Widget",
       "position": {
-        "x": 0,
-        "y": 0
+        "x": 16,
+        "y": 16
       },
       "size": {
-        "width": 800,
-        "height": 260
+        "width": 784,
+        "height": 244
       },
       "config": {
         "selectedTechs": [
@@ -98,23 +99,6 @@
       "zIndex": 3
     },
     {
-      "instanceId": "widget_1789628574755",
-      "widgetId": "contribution-snake",
-      "name": "Contribution-snake Widget",
-      "position": {
-        "x": 0,
-        "y": 712
-      },
-      "size": {
-        "width": 800,
-        "height": 250
-      },
-      "config": {},
-      "locked": false,
-      "visible": true,
-      "zIndex": 4
-    },
-    {
       "instanceId": "widget_1789628622371",
       "widgetId": "social-media",
       "name": "Social-media Widget",
@@ -150,16 +134,35 @@
       "zIndex": 5
     },
     {
-      "instanceId": "widget_1789628650624",
-      "widgetId": "divider",
-      "name": "Divider Widget",
+      "instanceId": "widget_1789629296659",
+      "widgetId": "asciiprofile-heatmap",
+      "name": "Asciiprofile-heatmap Widget",
       "position": {
-        "x": 0,
-        "y": 728
+        "x": 32,
+        "y": 768
       },
       "size": {
-        "width": 800,
-        "height": 30
+        "width": 752,
+        "height": 240
+      },
+      "config": {
+        "accentColor": "#ffa657"
+      },
+      "locked": false,
+      "visible": true,
+      "zIndex": 6
+    },
+    {
+      "instanceId": "widget_1789629346378",
+      "widgetId": "codeweb-showcase-cards",
+      "name": "Codeweb-showcase-cards Widget",
+      "position": {
+        "x": 32,
+        "y": 1032
+      },
+      "size": {
+        "width": 752,
+        "height": 220
       },
       "config": {},
       "locked": false,
@@ -167,21 +170,18 @@
       "zIndex": 6
     },
     {
-      "instanceId": "widget_1789628726621",
+      "instanceId": "widget_1789629370128",
       "widgetId": "codeweb-minimal-badge",
       "name": "Codeweb-minimal-badge Widget",
       "position": {
         "x": 32,
-        "y": 994
+        "y": 1276
       },
       "size": {
-        "width": 736,
-        "height": 40
+        "width": 752,
+        "height": 48
       },
-      "config": {
-        "customTitle": "",
-        "prefix": ""
-      },
+      "config": {},
       "locked": false,
       "visible": true,
       "zIndex": 7
@@ -198,5 +198,6 @@
     "themeMode": "dark",
     "templateStyle": "rugbedbugg"
   },
-  "templateId": "rugbedbugg"
+  "templateId": "rugbedbugg",
+  "profileSlug": "default"
 }
